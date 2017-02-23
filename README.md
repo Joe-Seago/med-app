@@ -3,7 +3,7 @@
 ***A simple solution to ensure your medication is taken on time, every time.***
 
 ## Author ##
- * [Joe Seago](www.joeseago.com)
+ * [Joe Seago](http://www.joeseago.com)
 
 ## Technologies ##
  * [React.js](https://facebook.github.io/react/) - A frontend JavaScript library.
