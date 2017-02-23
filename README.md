@@ -13,7 +13,7 @@
 
 ## Deployment ##
 
- * A live version of the app to come.
+ * A live version of the app coming soon.
 
 ![RxMinder Screenshot](http://i.imgur.com/y3ePzfH.png "RxMinder Landing Page")
 
