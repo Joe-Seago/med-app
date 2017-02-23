@@ -178,7 +178,3 @@ __Exit the database command prompt__
 * View the app at [localhost:8080](localhost:8080).
 
 - - - -
-
-## Acknowledgements ##
- * [Billie Thompson](https://gist.github.com/PurpleBooth) for the nice [README.md template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
- * [Dave McFarland](http://blog.teamtreehouse.com/author/davemcfarland) for the great [tutorial on installing Node/NPM](http://blog.teamtreehouse.com/install-node-js-npm-mac)
